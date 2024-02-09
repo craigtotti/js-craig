@@ -20,8 +20,6 @@ function greet(name) {
 }
 
 
-
-
 console.log("Number:", num);
 console.log("String:", str);
 console.log("Boolean:", bool);
@@ -32,5 +30,3 @@ console.log("Array:", arr);
 console.log("Function:", greet);
 console.log("Symbol:", sym);
 
-
-console.log(typeof name);
